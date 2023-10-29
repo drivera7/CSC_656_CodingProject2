@@ -1,0 +1,3 @@
+/home/gator/Documents/chrono_timer/build/CMakeFiles/chrono_timer.dir
+/home/gator/Documents/chrono_timer/build/CMakeFiles/edit_cache.dir
+/home/gator/Documents/chrono_timer/build/CMakeFiles/rebuild_cache.dir
